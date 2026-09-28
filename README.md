@@ -154,26 +154,6 @@ SQL-based sales analysis including:
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-wael12&bg_color=0F172A&color=FFFFFF&line=06B6D4&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahmed-wael12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -184,6 +164,10 @@ SQL-based sales analysis including:
 
 <a href="https://github.com/ahmed-wael12">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:ahmed.wael4866@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
