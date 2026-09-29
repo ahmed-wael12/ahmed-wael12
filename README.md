@@ -22,15 +22,17 @@
 
 I'm **Ahmed Wael**, a Junior Data Analyst & Business Analyst passionate about transforming raw data into meaningful business insights.
 
-I work with **Power BI, SQL, Python, and Excel** to clean, analyze, visualize, and communicate data effectively.
+I work across the data analytics workflow — from **data cleaning and transformation to SQL analysis, KPI development, data visualization, and interactive dashboard development**.
+
+My portfolio includes projects covering **Sales, E-Commerce, Customer Analytics, Real Estate, Business Intelligence, and SQL-based data analysis**.
 
 * 📊 Building interactive **Power BI dashboards**
 * 🧹 Data Cleaning & Transformation
+* 🗄️ SQL Data Analysis & Business Queries
 * 🐍 Data Analysis using **Python, Pandas & NumPy**
-* 🗄️ Writing analytical queries using **SQL**
 * 📈 KPI Development & Business Reporting
 * 🔎 Exploratory Data Analysis (EDA)
-* 💡 Turning data into actionable business insights
+* 💡 Translating data into actionable business insights
 
 ---
 
@@ -76,61 +78,89 @@ I work with **Power BI, SQL, Python, and Excel** to clean, analyze, visualize, a
 
 ## 🚀 Featured Projects
 
-### 📊 Power BI Sales Intelligence
+### 🥤 [Coca-Cola Sales Intelligence Dashboard](https://github.com/ahmed-wael12/Coca-Cola-Dashboard)
 
-Interactive sales dashboard analyzing:
+A Power BI sales intelligence dashboard focused on understanding **sales, profitability, retailer performance, product performance, and regional trends**.
 
-* Revenue & Profit
-* Profit Margin
-* Retailer Performance
-* Product Performance
-* Regional Trends
-* Sales KPIs
-
-**Tools:** Power BI • DAX • Data Modeling
+**Tools:** Power BI • DAX • Data Modeling • Power Query
 
 ---
 
-### 👥 HR Analytics Dashboard
+### 🛒 [Amazon Sales Dashboard](https://github.com/ahmed-wael12/AmazonDashBord)
 
-HR analytics dashboard focused on:
+Interactive sales analysis designed to monitor **sales performance, products, customers, and key business KPIs** through a visual dashboard.
 
-* Employee Satisfaction
-* Attrition
-* Departments
-* Salary Analysis
-* Projects
-* Working Hours
-
-**Tools:** Excel • PivotTables • Data Visualization
+**Tools:** Power BI • Data Visualization • KPI Analysis
 
 ---
 
-### 📞 Call Center Analytics
+### 👟 [Adidas Sales Dashboard](https://github.com/ahmed-wael12/Adidas-Sales-Dashboard)
 
-Large-scale call center dashboard analyzing:
+Sales performance analysis focused on **products, retailers, regions, sales trends, and business performance**.
 
-* 2M+ Calls
-* Abandonment Rate
-* Average Speed of Answer
-* Service Level
-* Agent Performance
-
-**Tools:** Power BI • DAX
+**Tools:** Power BI • Data Visualization • Sales Analytics
 
 ---
 
-### 🗄️ SQL Sales Data Exploration
+### 🚚 [MISUO Sales & Delivery Dashboard](https://github.com/ahmed-wael12/MISUO-Dashboard)
 
-SQL-based sales analysis including:
+Business dashboard analyzing **delivery performance, expected vs. actual delivery, customer segments, payment methods, and geographic distribution**.
 
-* Revenue Analysis
-* Year-over-Year Growth
-* Running Totals
-* Customer Segmentation
-* VIP / Regular / New Customers
+**Tools:** Power BI • Data Transformation • KPI Analysis
 
-**Tools:** SQL • Data Analysis
+---
+
+### 🏠 [Real Estate Sales Analytics](https://github.com/ahmed-wael12/Real-Estate-Sales-Analytics-Dashboard-SQL-Server-Power-BI)
+
+End-to-end analytics project combining **SQL Server and Power BI** to analyze real estate sales data and transform structured database information into interactive business insights.
+
+**Tools:** SQL Server • Power BI • DAX • Data Modeling
+
+---
+
+### 🗄️ [SQL Sales Data Exploration](https://github.com/ahmed-wael12/SQL-sales-data-exploration)
+
+SQL-based analytical project exploring sales performance through **revenue analysis, customer segmentation, trends, rankings, and business-focused queries**.
+
+**Tools:** SQL • Data Analysis • Window Functions
+
+---
+
+## 📚 More Projects
+
+| Project                                                                                        | Focus                         |
+| ---------------------------------------------------------------------------------------------- | ----------------------------- |
+| [Customer Booking Analysis](https://github.com/ahmed-wael12/customer_booking)                  | Customer & Booking Analytics  |
+| [Sales Dashboard](https://github.com/ahmed-wael12/Sales-Dashboard)                             | Sales Performance & KPIs      |
+| [Sallah Dashboard](https://github.com/ahmed-wael12/Sallah-Dashboard)                           | Sales & Business Intelligence |
+| [SQL Sales Analysis](https://github.com/ahmed-wael12/SQL-sales-analysis-project)               | SQL Business Analysis         |
+| [Sales Data Analysis using SQL](https://github.com/ahmed-wael12/Sales-Data-Analysis-using-SQL) | SQL Data Exploration          |
+
+---
+
+## 🧠 Analytics Approach
+
+Across my projects, I focus on following a structured data analytics workflow:
+
+```text
+Raw Data
+   ↓
+Data Cleaning & Validation
+   ↓
+Data Transformation
+   ↓
+SQL / Python Analysis
+   ↓
+KPI Development
+   ↓
+Data Modeling
+   ↓
+Interactive Visualization
+   ↓
+Business Insights
+```
+
+My goal is not only to create dashboards, but to understand the **business questions behind the data** and present insights in a clear way that supports better decision-making.
 
 ---
 
@@ -141,14 +171,6 @@ SQL-based sales analysis including:
 <img src="https://github-readme-stats.shion.dev/api?username=ahmed-wael12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
 
 <img src="https://streak-stats.demolab.com/?user=ahmed-wael12&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahmed-wael12&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180"/>
 
 </div>
 
